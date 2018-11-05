@@ -2,6 +2,8 @@
 
 _Classroom link:_ <http://about:blank>
 
+![Mindblowing](http://pa1.narvii.com/6570/6a8a49cf81150727244ffc9cdd1110f24ac535d2_00.gif)
+
 ## Tornar uma solução concreta e redundante em abstrata e sem lógica duplicada
 
 #### Assuntos
@@ -47,7 +49,6 @@ Além disso, se os dados futuros forem placas, datas e horas eles não seriam da
 
 * * *
 
-![Mindblowing](http://pa1.narvii.com/6570/6a8a49cf81150727244ffc9cdd1110f24ac535d2_00.gif)
 
 Interfaces são _mindblowing_, eu sei, mas
 
