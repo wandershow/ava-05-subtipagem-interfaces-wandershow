@@ -48,3 +48,11 @@ Além disso, se os dados futuros forem placas, datas e horas eles não seriam da
 * * *
 
 ![Mindblowing](http://pa1.narvii.com/6570/6a8a49cf81150727244ffc9cdd1110f24ac535d2_00.gif)
+
+Interfaces são _mindblowing_, eu sei, mas
+
+> _"The mind, once expanded to the
+> dimensions of larger ideas,
+> never returns to its original size"_
+>
+> -- Oliver Wendell Holmes, Sr.
