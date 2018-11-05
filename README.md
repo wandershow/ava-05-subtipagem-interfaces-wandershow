@@ -1,10 +1,10 @@
 # Subtipagem e Interfaces
 
-_Classroom link:_ <http://about:blank>
+_Classroom link:_ <https://classroom.github.com/a/VRJ4i8wI>
 
 ![Mindblowing](http://pa1.narvii.com/6570/6a8a49cf81150727244ffc9cdd1110f24ac535d2_00.gif)
 
-## Tornar uma solução concreta e redundante em abstrata e sem lógica duplicada
+## Tornar uma solução concreta e redundante em abstrata e concisa
 
 #### Assuntos
 
@@ -25,9 +25,11 @@ _Classroom link:_ <http://about:blank>
 
 O seguinte programa foi criado para exibir caixas de diálogo onde o usuário pode entrar com dados numéricos. A princípio o objetivo era permitir a informação do CPF. Depois foi necessário o CEP e para realizá-lo foi reproduzido (duplicado) o código de CPF para CEP.
 
-Sabendo que futuramente poderão vir outros dados numéricos, como RG, Matrícula, etc, como criar uma solução abstrata suficiente a ponto de permitir futuras informações numéricas? (NÍVEL 1/Normal/0.7)
+Sabendo que futuramente poderão vir outros dados numéricos, como Título de Eleitor, RG, Matrícula, etc, como criar uma solução abstrata suficiente a ponto de permitir futuras informações numéricas? (NÍVEL 1/Normal/0.7)
 
 Esta atividade deve ser **solucionada obrigatoriamente com interfaces**, podendo ter adicionalmente superclasses abstratas ou não. Os códigos iniciais estão no diretório cobaia, copie-o para o `src` do seu projeto e elabore a solução a partir desses códigos.
+
+A qualidade da solução está em não mencionar os dados concretos nos diálogos ou retornos destes. Assim, a introdução de novos tipos de dados não implicará mudanças nos diálogos.
 
 ```java
 class Main {
@@ -45,12 +47,11 @@ class Main {
 }
 ```
 
-Além disso, se os dados futuros forem placas, datas e horas eles não seriam dados totalmente numéricos, então como criar uma solução abstrata para qualquer tipo de dado? (NÍVEL 2/Hard/+0.3 extras)
+**Desafio: E se** os dados futuros forem placas, datas e horas? Eles não seriam dados totalmente numéricos, embora respeitem um formato. Então como criar uma solução abstrata para qualquer tipo de dado? (NÍVEL 2/Hard/+0.3 extras)
 
 * * *
 
-
-Interfaces são _mindblowing_, eu sei, mas
+Interfaces são _mindblowing_, eu sei, mas ...
 
 > _"The mind, once expanded to the
 > dimensions of larger ideas,
